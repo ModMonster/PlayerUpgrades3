@@ -20,18 +20,18 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "yourname.mods.yourmod.fabric.FabricYourMod"
+      "ca.modmonster.playerupgrades.fabric.FabricPlayerUpgrades"
     ],
     "client": [
-      "yourname.mods.yourmod.fabric.client.FabricYourModClient"
+      "ca.modmonster.playerupgrades.fabric.client.FabricPlayerUpgradesClient"
     ],
     "fabric-datagen": [
-      "yourname.mods.yourmod.fabric.datagen.ModDataGenerator"
+      "ca.modmonster.playerupgrades.fabric.datagen.ModDataGenerator"
     ]
   },
   "mixins": [
-    "yourmod.mixins.json",
-    "yourmod.fabric.mixins.json"
+    "playerupgrades.mixins.json",
+    "playerupgrades.fabric.mixins.json"
   ],
   "depends": {
     "java": ">=${java_version}",

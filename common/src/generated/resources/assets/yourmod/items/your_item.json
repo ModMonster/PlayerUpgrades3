@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "yourmod:item/your_item"
+    "model": "playerupgrades:item/your_item"
   }
 }

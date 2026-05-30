@@ -6,6 +6,6 @@
     "minecraft:bone_meal"
   ],
   "result": {
-    "id": "yourmod:your_item"
+    "id": "playerupgrades:your_item"
   }
 }

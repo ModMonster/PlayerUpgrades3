@@ -1,7 +1,7 @@
 {
   "variants": {
     "": {
-      "model": "yourmod:block/your_block"
+      "model": "playerupgrades:block/your_block"
     }
   }
 }
