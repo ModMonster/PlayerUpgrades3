@@ -1,6 +1,7 @@
 package ca.modmonster.playerupgrades.item;
 
 import ca.modmonster.playerupgrades.PlayerUpgrades;
+import ca.modmonster.playerupgrades.block.ModBlocks;
 import net.blay09.mods.balm.world.item.BalmCreativeModeTabRegistrar;
 import net.blay09.mods.balm.world.item.BalmItemRegistrar;
 import net.blay09.mods.balm.world.item.DeferredItem;
@@ -53,6 +54,7 @@ public class ModItems {
                 builder.title(Component.translatable("itemGroup.playerupgrades"))
                         .icon(() -> ModItems.IRON_CASE.createStack())
                         .displayItems((displayParameters, output) -> {
+                            output.accept(ModBlocks.UPGRADER);
                             output.accept(ModItems.STARRY_INGOT);
                             output.accept(ModItems.IRON_CASE);
                             output.accept(ModItems.DIAMOND_CASE);

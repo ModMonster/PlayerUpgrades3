@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "playerupgrades:item/iron_health_boost_upgrade"
+  }
+}

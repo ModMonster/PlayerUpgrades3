@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "bottom": "playerupgrades:block/upgrader_bottom",
+    "side": "playerupgrades:block/upgrader_side",
+    "top": "playerupgrades:block/upgrader_top"
+  }
+}
