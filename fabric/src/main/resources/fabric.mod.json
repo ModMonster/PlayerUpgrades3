@@ -22,9 +22,6 @@
     "main": [
       "ca.modmonster.playerupgrades.fabric.FabricPlayerUpgrades"
     ],
-    "client": [
-      "ca.modmonster.playerupgrades.fabric.client.FabricPlayerUpgradesClient"
-    ],
     "fabric-datagen": [
       "ca.modmonster.playerupgrades.fabric.datagen.ModDataGenerator"
     ]

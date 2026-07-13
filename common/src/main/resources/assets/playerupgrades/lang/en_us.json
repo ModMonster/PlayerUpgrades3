@@ -1,1 +1,21 @@
-{}
+{
+  "itemGroup.playerupgrades": "Player Upgrades",
+  "item.playerupgrades.iron_case": "Iron Upgrade Case",
+  "item.playerupgrades.diamond_case": "Diamond Upgrade Case",
+  "item.playerupgrades.starry_ingot": "Starry Ingot",
+  "item.playerupgrades.starry_case": "Starry Upgrade Case",
+  "item.playerupgrades.iron_strength_upgrade": "Strength Upgrade",
+  "item.playerupgrades.iron_haste_upgrade": "Haste Upgrade",
+  "item.playerupgrades.iron_health_boost_upgrade": "Health Upgrade",
+  "item.playerupgrades.iron_jump_boost_upgrade": "Leaping Upgrade",
+  "item.playerupgrades.iron_speed_upgrade": "Swiftness Upgrade",
+  "item.playerupgrades.diamond_strength_upgrade": "Strength Upgrade",
+  "item.playerupgrades.diamond_haste_upgrade": "Haste Upgrade",
+  "item.playerupgrades.diamond_health_boost_upgrade": "Health Upgrade",
+  "item.playerupgrades.diamond_jump_boost_upgrade": "Leaping Upgrade",
+  "item.playerupgrades.diamond_speed_upgrade": "Swiftness Upgrade",
+  "item.playerupgrades.fire_resistance_upgrade": "Fireproof Upgrade",
+  "item.playerupgrades.water_breathing_upgrade": "Water Breathing Upgrade",
+  "item.playerupgrades.flight_upgrade": "Flight Upgrade",
+  "effect.playerupgrades.flight": "Creative Flight"
+}
